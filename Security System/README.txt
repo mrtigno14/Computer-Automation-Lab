@@ -1,0 +1,1 @@
+A house security system with a flame sensor/smoke sensor that will activate the buzzer and a motion sensor that will activate the lights when triggered and also a door lock that will be opened with the use of a password that will be inputted on a UI.
