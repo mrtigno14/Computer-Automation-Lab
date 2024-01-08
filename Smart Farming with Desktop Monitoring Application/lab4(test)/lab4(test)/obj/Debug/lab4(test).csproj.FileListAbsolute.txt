@@ -1,0 +1,10 @@
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\bin\Debug\lab4(test).exe.config
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\bin\Debug\lab4(test).exe
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\bin\Debug\lab4(test).pdb
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4(test).csproj.AssemblyReference.cache
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4_test_.Form1.resources
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4_test_.Properties.Resources.resources
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4(test).csproj.GenerateResource.cache
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4(test).csproj.CoreCompileInputs.cache
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4(test).exe
+C:\Users\marct\source\repos\lab4(test)\lab4(test)\obj\Debug\lab4(test).pdb
