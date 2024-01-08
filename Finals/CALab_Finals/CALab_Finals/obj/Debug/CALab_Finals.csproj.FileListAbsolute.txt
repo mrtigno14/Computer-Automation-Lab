@@ -1,0 +1,10 @@
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\bin\Debug\CALab_Finals.exe.config
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\bin\Debug\CALab_Finals.exe
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\bin\Debug\CALab_Finals.pdb
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.csproj.AssemblyReference.cache
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.Form1.resources
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.Properties.Resources.resources
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.csproj.GenerateResource.cache
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.csproj.CoreCompileInputs.cache
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.exe
+C:\Users\marct\source\repos\CALab_Finals\CALab_Finals\obj\Debug\CALab_Finals.pdb
